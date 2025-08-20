@@ -35,7 +35,7 @@ A modern, responsive landing page for MergeFlow, a GitHub-like SaaS platform tha
 
 1. **Clone the repository**
    ```bash
-   git clone [<your-repository-url>](https://github.com/hooriaajmal/mergeflow)
+   git clone https://github.com/hooriaajmal/mergeflow
    cd mergeflow
    ```
 
