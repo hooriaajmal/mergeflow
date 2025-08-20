@@ -23,6 +23,8 @@ A modern, responsive landing page for MergeFlow, a GitHub-like SaaS platform tha
 - **Pricing**: Three-tier pricing structure (Free, Pro, Enterprise)
 - **Call-to-Action**: Clear conversion opportunities
 
+![Hero](https://github.com/hooriaajmal/mergeflow/blob/main/mergeflow.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
