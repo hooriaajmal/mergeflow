@@ -184,8 +184,6 @@ tailwind.config = {
 - **Three-Globe**: For inspiration on globe implementations
 - **Heroicons**: For the beautiful SVG icons
 
-## 📞 Support
-
-For support, email support@mergeflow.com or join our Slack channel.
+**⭐ If you found this project helpful, please give it a star on GitHub!**
 
 ---
